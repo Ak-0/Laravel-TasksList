@@ -90,13 +90,13 @@ DB_DATABASE=/absolute/path/to/tasks_list/laravel
 In this repository, a SQLite file exists as:
 
 ```text
-identifier.sqlite
+laravel
 ```
 
 So for this project root, a working value is:
 
 ```env
-DB_DATABASE=/tasks_list/identifier.sqlite
+DB_DATABASE=/tasks_list/laravel
 ```
 
 #### Option B: MySQL (example)
