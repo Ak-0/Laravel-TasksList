@@ -84,7 +84,7 @@ If you want SQLite, ensure your `.env` contains:
 
 ```env
 DB_CONNECTION=sqlite
-DB_DATABASE=/absolute/path/to/tasks_list/identifier.sqlite
+DB_DATABASE=/absolute/path/to/tasks_list/laravel
 ```
 
 In this repository, a SQLite file exists as:
